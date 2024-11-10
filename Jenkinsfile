@@ -21,7 +21,7 @@ pipeline {
                 }
             steps {
                 script {
-                    echo "it is super branch testing ... ${BRANCH_NAME}"
+                    echo "it is 2ndbranch branch testing ... ${BRANCH_NAME}"
                 }
             }
         }
