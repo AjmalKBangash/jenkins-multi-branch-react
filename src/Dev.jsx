@@ -6,6 +6,7 @@ function Dev() {
       <hr />
       <hr />
       <div>Development branch</div>
+      <div>By Ajmal Khan Bangash</div>
       <hr />
       <hr />
       <hr />
